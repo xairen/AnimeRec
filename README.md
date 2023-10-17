@@ -1,6 +1,6 @@
-# tables
+# ANIME RECOMMENDATION SYSTEM (TABLES)
 
-A new Flutter project.
+A new Flutter project implemented using DART to access a json based anime dataset and implement a basic recommendation system.
 
 ## Getting Started
 
